@@ -1,0 +1,10 @@
+{
+  "name": "@gfdigital/template-monorepo-lib-vite",
+  "version": "0.0.1",
+  "description": "A monorepo library that is built with vite & ts",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@gfdigital/tsconfig": "^0.3.1"
+  }
+}

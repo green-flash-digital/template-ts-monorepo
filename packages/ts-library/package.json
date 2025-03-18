@@ -1,0 +1,14 @@
+{
+  "name": "@gfdigital/template-monorepo-lib-ts",
+  "version": "0.0.1",
+  "description": "A monorepo library that is built only with TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@gfdigital/tsconfig": "^0.3.1"
+  }
+}
