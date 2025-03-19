@@ -1,1 +1,3 @@
-export {};
+export function helloThere() {
+  return "hello there";
+}
